@@ -1,0 +1,7 @@
+/nbproject/private/
+/vendor
+/*.env
+/config
+/database
+/public
+/app/Http
